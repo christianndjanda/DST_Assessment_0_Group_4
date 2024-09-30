@@ -1,11 +1,5 @@
 # DST_Assessment_0_Group_4
 
-
-#Hello
-
-hello
-
-
 ## Reading order and requirements
 To install all the Python dependencies, listed in `requirements.txt`, use the following command in a virtual environment:
 ```{sh}
