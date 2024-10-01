@@ -1,0 +1,15 @@
+---
+title: "05-Wrap-up"
+output: html_notebook
+---
+
+# Conclusions
+
+Having looked at different sets of loan data, some interesting observations were found across all the analysis. In terms of finding good data-sets for building predictive model, both Imran and Katherine found that their data sets may be too small to build a model that doesn't over-fit the data.
+
+Both Shrey and Imran developed simple models to see how well the given factors in the data-set would be able to predict the outcome of the corresponding loans. Shrey's model was relatively successful, which would indicate that there are enough influential covariants to be able to build and refine a successful model for predicting if a loan will be accepted.
+
+All group members experimented with different ways of presenting the data, making particular use of the Seaborn package for histograms and kernel density plots. 
+
+Overall, a good summary of the data was found for each data-set, which forms solid foundations for looking towards building a successful model in the future. The use of python notebooks was pretty smooth and collaborating on the same GitHub repository was also successful once everyone in he group had had the time to familiarize themselves with he basics of how GitHub works.
+
