@@ -27,4 +27,4 @@ Our working is shown in our own directories
 - ImranV
 - KatherineW
 
-All 4 group members have worked separatly on different data sets using python notebooks. 
+All 4 group members have worked separately on different data sets using python notebooks. 
