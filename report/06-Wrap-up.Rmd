@@ -5,7 +5,7 @@ output: html_notebook
 
 # Conclusions
 
-Having looked at different sets of loan data, some interesting observations were found across all the analysis. In terms of finding good data-sets for building predictive model, both Imran and Katherine found that their data sets may be too small to build a model that doesn't over-fit the data.
+Having looked at different sets of loan data, some interesting observations were found across all the analysis. In terms of finding good data-sets for building predictive model, both Imran and Katherine found that their data sets may be too small to build a model that doesn't over-fit the data. Contrastingly, the dataset that Christian worked with had more that twice as many data points as any other set meaning that the aforementioned problem would not be the case for this dataset.  
 
 Both Shrey and Imran developed simple models to see how well the given factors in the data-set would be able to predict the outcome of the corresponding loans. Shrey's model was relatively successful, which would indicate that there are enough influential covariants to be able to build and refine a successful model for predicting if a loan will be accepted.
 
